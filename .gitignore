@@ -54,3 +54,10 @@ logs/
 
 # Configs
 *.json
+
+# imgs
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
